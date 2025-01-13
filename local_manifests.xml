@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Generated using sounddrill31/actions_generate_local_manifests -->
+
+    <!-- Remotes -->
+    <remote name="alternoegraha" fetch="https://github.com/alternoegraha" clone-depth="1" />
+
+    <!-- Removals -->
+
+    <!-- Repos -->
+    <!-- Device -->
+
+    <!-- Device - Common -->
+
+    <!-- Kernel -->
+
+    <!-- Vendor -->
+
+    <!-- Vendor - Common -->
+
+    <!-- Other Repos -->
+    <project path="pixelage" name="device_xiaomi_fog" remote="alternoegraha" />
+
+</manifest>
